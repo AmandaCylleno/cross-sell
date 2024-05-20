@@ -1,2 +1,1 @@
-# cross-sell
-Email involving selling related, supplementary products based on the customer's interest in, or purchase of, one of our company's products.
+![cross sell](https://github.com/AmandaCylleno/cross-sell/assets/145169742/18d2856c-cc6a-4173-88b8-3d9e939569ca)
